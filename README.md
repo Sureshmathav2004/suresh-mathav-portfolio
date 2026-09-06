@@ -1,4 +1,4 @@
-# Suresh — AI/ML Portfolio 2026
+# Suresh Mathav — AI/ML Portfolio 2026
 
 A personal portfolio site for **Suresh Mathav** — Python Full Stack Developer and AI/ML enthusiast based in London, UK.
 
