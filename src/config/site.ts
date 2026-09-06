@@ -40,7 +40,7 @@ export const site = {
 
   intro: {
     heading: 'HELLO',
-    lede: "Hi, I'm Suresh.",
+    lede: "Hi, I'm Suresh Mathav.",
     paragraphs: [
       'A passionate Python Full Stack Developer and AI/ML enthusiast based in London, UK.',
       'I enjoy building full-stack web applications, developing machine learning solutions, and exploring AI to turn ideas into practical software.',
@@ -52,7 +52,7 @@ export const site = {
     items: [
       {
         degree: 'Master of Science, Artificial Intelligence',
-        detail: 'Queen Mary University of London | Sep 2026 – Aug 2027',
+        detail: 'Queen Mary University of London | Sep 2026 – Sep 2027',
       },
       {
         degree: 'Bachelor of Technology, Computer Science',
